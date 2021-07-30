@@ -36,11 +36,13 @@ Featues used to train the NN:
    * 16x16x16x1-F10.h5    trained with features with multiple values.
 
   Project Structure
-    ./models/16x16x16x1-F18.h5      model trained with 18 features
-    ./models/16x16x16x1-F10.h5      model trained with 10 features
-    ./thermal/                      JPEG radiometric format images using Flir AX80, A300, Pro Gen 3.
-    ./ITESO/                        ITESO 
-    ./conda/IDI10 notebook          https://colab.research.google.com/github/marcomartagon/ITESO-phd-IDI10/blob/main/conda/IDI10-AIRadiometricImages.ipynb#scrollTo=3xoAQcIbNMuS
+   *./models/16x16x16x1-F18.h5      model trained with 18 features
+   *./models/16x16x16x1-F10.h5      model trained with 10 features
+   *./thermal/                      JPEG radiometric format images using Flir AX80, A300, Pro Gen 3.
+   *./ITESO/                        ITESO 
+   *./conda/IDI10 notebook          click the below link to open it on Google Colab
+
+   *https://colab.research.google.com/github/marcomartagon/ITESO-phd-IDI10/blob/main/conda/IDI10-AIRadiometricImages.ipynb#scrollTo=3xoAQcIbNMuS
     
 
 

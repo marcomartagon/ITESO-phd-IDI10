@@ -43,7 +43,7 @@ Featues used to train the NN:
    * ./thermal/                      JPEG radiometric format images using Flir AX80, A300, Pro Gen 3.
    * ./ITESO/                        ITESO 
    * ./conda/IDI10 notebook          click the below link to open it on Google Colab
-   * https://colab.research.google.com/github/marcomartagon/ITESO-phd-IDI10/blob/main/conda/IDI10-AIRadiometricImages.ipynb#scrollTo=3xoAQcIbNMuS
+   * https://colab.research.google.com/github/marcomartagon/ITESO-phd-IDI10/blob/main/conda/IDI10-AIRadiometricImages.ipynb
     
 
 
